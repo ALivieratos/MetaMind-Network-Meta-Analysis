@@ -9,12 +9,12 @@ Livieratos et al., PLOS ONE
 The code implements the core components of the MetaMind framework, including:
 - Literature retrieval using Promptriever
 - Multi-agent large language model extraction workflows
-- Prompt templates used for structured clinical data extraction
+- Embedded prompts used for structured clinical data extraction
 - Automated generation and execution of Bayesian network meta-analyses
 
 ## Contents
 - Retrieval scripts for identifying relevant clinical trials
-- Prompt templates used across pipeline stages
+- Prompts used across pipeline stages
 - Extraction and aggregation logic
 - Analysis scripts for Bayesian NMA
 
