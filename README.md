@@ -3,7 +3,7 @@
 This repository contains author-generated code supporting the study:
 
 **MetaMind: A Multi-Agent Transformer-Driven Framework for Automated Network Meta-Analyses**  
-Livieratos et al., PLOS ONE (accepted)
+Livieratos et al., PLOS ONE 
 
 ## Overview
 The code implements the core components of the MetaMind framework, including:
